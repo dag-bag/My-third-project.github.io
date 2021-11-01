@@ -291,6 +291,7 @@ a span:nth-child(2) {
 }
 .language .card:hover {
   transform: translateY(-15px);
+  cursor: pointer;
 }
 
 /*--scial----*/
